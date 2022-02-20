@@ -3,7 +3,13 @@
 [![Python Version](https://img.shields.io/badge/python-3.9-brightgreen.svg)](https://python.org)
 
 
-Code example used in the "Web scraping itc.ua".
+Code example used in the "Web scraping".
+
+web site:
+
+1. http://itnews.com.ua/ - file itnews-com-ua.py
+2. https://www.zr.ru/ - file www-zr-ru.py
+3. https://www.hi-fi.ru/ - file www-hi-fi-ru.py
 
 ## Running the Project Locally
 
